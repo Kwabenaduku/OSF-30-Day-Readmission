@@ -1,4 +1,4 @@
-**Project Summary: Predicting 30-Day Readmissions for OSF Health**
+##Predicting 30-Day Readmissions for OSF Health**
 
 As part of the OSF 30-Day Readmission competition, organized by Illinois State University and OSF Health, I developed a high-performing binary classification model using XGBoost to predict whether a patient discharged from OSF Health would be readmitted within 30 days. The primary objective of this competition was to assist healthcare providers in preventing avoidable readmissions, which are linked to negative health outcomes and strained hospital resources. By accurately predicting readmissions, hospitals can optimize bed capacity and improve overall patient care.
 
